@@ -16,5 +16,10 @@ namespace VendingMachineApp
         {
             InitializeComponent();
         }
+
+        private void regular_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
